@@ -9,7 +9,7 @@
 // $('a[data-target|="main"]').css('border', '1px solid red'); // Имеет префикс - ... 
 // $('a[href][download]').css('border', '1px solid red'); // Имеет одновременно несколько атрибутов 
 
-
+//изменил js
 /* $('a[href]').css('border', '2px solid #000');
 $('a[src^="img/"]').css('border', '2px solid #000');
 $('a[src$=".js"]').css('border', '2px solid #000');
